@@ -1,0 +1,13 @@
+Script started on Wed 11 Jun 2014 03:08:58 AM UTC
+vagrant@precise32:~/bloc-jams/code$ > touch gas .js
+vagrant@precise32:~/bloc-jams/code$ ls -1
+ga.js
+mylogfile
+snippets.js
+vagrant@precise32:~/bloc-jams/code$ echo assignment > mylogfile
+vagrant@precise32:~/bloc-jams/code$ cat mylogfile
+assignment
+vagrant@precise32:~/bloc-jams/code$ exit
+exit
+
+Script done on Wed 11 Jun 2014 03:13:34 AM UTC
