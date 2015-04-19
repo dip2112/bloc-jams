@@ -15,4 +15,9 @@ $(document).ready(function() {
    };
  
    $('.selling-points .point').hover(onHoverAction, offHoverAction);
+
+$('div.container h3').hover(function(){
+      $(this).css({"color":"green"});
+   });
+
 });
